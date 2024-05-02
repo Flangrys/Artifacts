@@ -1,0 +1,9 @@
+name: Artifacts
+version: '${project.version}'
+main: com.flangrys.artifacts.Artifacts
+api-version: '1.15'
+prefix: ARTIFACTS
+load: STARTUP
+authors: 'Francisco Matias Prieto Giorgis'
+description: todo
+website: https://github.com/flangrys/Artifacts
